@@ -3,7 +3,7 @@
 $url = "api.openweathermap.org/data/2.5/weather";
 $options = array(
     'q' => 'Moscow',
-    'appid' => '87e5af1ab887a27cf579969c07d66cd3',
+    'appid' => '',
     'units' => 'metric',
     'language' => 'en',
 );
